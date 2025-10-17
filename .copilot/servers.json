@@ -1,0 +1,24 @@
+{
+  "mcpServers": {
+    "sbom": {
+      "command": "python",
+      "args": ["-m", "servers.sbom.app"],
+      "env": { "PYTHONPATH": "." }
+    },
+    "vuln": {
+      "command": "python",
+      "args": ["-m", "servers.vuln.app"],
+      "env": { "PYTHONPATH": "." }
+    },
+    "policy": {
+      "command": "python",
+      "args": ["-m", "servers.policy.app"],
+      "env": { "PYTHONPATH": "." }
+    },
+    "report": {
+      "command": "python",
+      "args": ["-m", "servers.report.app"],
+      "env": { "PYTHONPATH": "." }
+    }
+  }
+}
