@@ -1,0 +1,67 @@
+{
+  "source": "github/awesome-copilot",
+  "commit": "5269f7ea2d6c3a9bfda5ed878b6726cf509121fd",
+  "date": "2026-10-30",
+  "files": {
+    ".github/skills/github-actions-efficiency/SKILL.md": {
+      "upstream_blob_sha": "e63a2bad12e13978a52ddb655573856d12314746",
+      "sha256": "9c41e860468e5c88d83ab6eec70c585b0f122facec2632ea65497b3389139e43"
+    },
+    ".github/skills/github-actions-efficiency/references/actions.md": {
+      "upstream_blob_sha": "c6303903518c4923b6b787e02083d04f8a6052d1",
+      "sha256": "9f24153e0b743a978ec84e08bc64047616d18504965708cc7507437203689fdb"
+    },
+    ".github/skills/github-actions-efficiency/references/patterns.md": {
+      "upstream_blob_sha": "c030717ba0ef444ece4bf227f4f4b9c126a24922",
+      "sha256": "a9fb61ee95b5f2f4cb372064f5de9d04ca749da1b78d050e42e909e9e97228dd"
+    },
+    ".github/skills/github-actions-efficiency/references/reporting.md": {
+      "upstream_blob_sha": "de78b8faf14aed78e1cd5ecd764d853ce0fae6b4",
+      "sha256": "18eec5acd0d9e52b450f86b8232e9994c5c5b7760240bcb2e97417f8a847508c"
+    },
+    ".github/skills/github-actions-efficiency/references/review-rubric.md": {
+      "upstream_blob_sha": "a086e212b4a5821f47a11507dc9549e88167cb55",
+      "sha256": "f2fd2bbd34f15f68664e30ea62468f8a5b19bc9b49929dcd082a4c87316b3ce2"
+    },
+    ".github/skills/github-actions-hardening/SKILL.md": {
+      "upstream_blob_sha": "61fa956e0ca6a0958ff6713b7b94ed22ecdc2e7e",
+      "sha256": "31a8e7483d978e6267941edefebbe42aaa946bb3d43c9095aa3db343d4a8ff06"
+    },
+    ".github/skills/github-actions-hardening/references/injection.md": {
+      "upstream_blob_sha": "113ff1aa65ae2826c36f7cc8c6d503bb7058ca31",
+      "sha256": "ebd6ef8d39ba6f1cd3dc13051e6ed4163d1d2ba36518cf0f7393836a211e58ff"
+    },
+    ".github/skills/github-actions-hardening/references/permissions-and-tokens.md": {
+      "upstream_blob_sha": "784ea92ef100390b08f5d01607369d6fcad94554",
+      "sha256": "7272d00b20cf99c6fcbf34346f76730907c00701aef44bb9cfb7ab3eecac336b"
+    },
+    ".github/skills/github-actions-hardening/references/report-format.md": {
+      "upstream_blob_sha": "20f9f064650da6237bbea03aa67d7f2c14c694f3",
+      "sha256": "3ecd2442e173bc001f858747873349be7c6c77050470b87ae516647908b1e86e"
+    },
+    ".github/skills/github-actions-hardening/references/supply-chain.md": {
+      "upstream_blob_sha": "6cb05474467ab11925d31a4d1ba9e74297ca1596",
+      "sha256": "f66f613dbd732ce87c1e76b88208efde8feae3ffe5a3ab405cde4ce3df66f605"
+    },
+    ".github/skills/github-actions-hardening/references/triggers-and-privilege.md": {
+      "upstream_blob_sha": "3081d9145f6b6abaede423574725ef001b20a1e3",
+      "sha256": "465f3f76517e9f5374a73e30f46cb47e1fe62ce9fd81f782808a3abbb2df2756"
+    },
+    ".github/skills/github-actions-runtime-upgrade-conventions/SKILL.md": {
+      "upstream_blob_sha": "00bb2241d70662c33494214bfe2c13d41952e71c",
+      "sha256": "b964b4609e9b7ca8bbe394d4232e4f8bff122813e09433ccda1c4356f79c98eb"
+    },
+    ".github/skills/github-release/SKILL.md": {
+      "upstream_blob_sha": "afd9c4c24af18ca38b708fb908515ee4964b617a",
+      "sha256": "7ef644b19c8f87b09be121efdb3fc946c3354bb48ce6ec841ebb56384ee4c431"
+    },
+    ".github/skills/github-release/references/commit-classification.md": {
+      "upstream_blob_sha": "ac5e384dec732c71a914b22f888f6d4e4d73be99",
+      "sha256": "61c0d5145358aea2fa5984364513d880d757a0946432ee074ffbadc8d0e47626"
+    },
+    ".github/skills/github-release/references/semver-rules.md": {
+      "upstream_blob_sha": "429fed04120f3271545d378b997002228250116f",
+      "sha256": "96b607e4189eea07c77728081e9c69f17898cdce5b91bd2e3c03c42ea4b2ba2c"
+    }
+  }
+}
